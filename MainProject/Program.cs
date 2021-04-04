@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.FSharp.Core;
 using Microsoft.FSharp.Collections;
 using NUnit.Framework;
-using MyMath;
+using System.Windows;
 
 namespace MainProject
 {
