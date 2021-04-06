@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="MyMath.fs" />
+    <Compile Include="NetworkKit.fs" />
   </ItemGroup>
 
   <ItemGroup>
